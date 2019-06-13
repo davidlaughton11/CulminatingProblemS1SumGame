@@ -14,7 +14,7 @@ the number of runs scored by the Semaphores on each day, in order.</TextBlock>
         <TextBox x:Name="NInput"></TextBox>
         <TextBox x:Name="SwiftsRunsInput" ></TextBox>
         <TextBox x:Name="SemaphoresRunsInput" ></TextBox>
-        <Button x:Name="Click" Click="Click_Click">CLick</Button>
+        <Button x:Name="Click" Click="Click_Click">Click</Button>
         <Label x:Name="lblOutput"></Label>
     </StackPanel>
 </Window>
